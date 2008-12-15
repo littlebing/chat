@@ -1,0 +1,16 @@
+
+there are 1 persons in the chat room
+client[5] send the >a< message
+====>client[5]:got!
+
+there are 1 persons in the chat room
+client[5] send the >d< message
+====>client[5]:got!
+
+there are 1 persons in the chat room
+client[5] send the >//num< message
+====>client[5]:got!
+
+there are 1 persons in the chat room
+client[5] send the >//date< message
+====>client[5]:got!
